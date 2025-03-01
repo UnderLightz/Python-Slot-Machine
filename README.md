@@ -8,22 +8,22 @@ Please gamble responsibly
 
 
 
-# Description:
+## Description:
 Developed an interactive slot machine game using Python. The program simulates a traditional slot machine, allowing users to place bets, spin the reels, and receive payouts based on winning combinations.
 
 
-# Technologies Used:
+## Technologies Used:
 Python, Random Library
 
-# Role:
+## Role:
 Designed and implemented the game logic, including bet placements, reel spinning, and payout calculations.
 Developed a user-friendly interface with clear instructions and feedback.
 Implemented error handling to ensure a smooth user experience.
 Conducted thorough testing to identify and fix bugs.
 
-# Challenges and Solutions:
+## Challenges and Solutions:
 
-# Challenge:
+### Challenge:
 Creating random yet realistic reel spins.
-# Solution:
+### Solution:
 Utilized Python's random library to generate random outcomes while ensuring balanced win probabilities.
