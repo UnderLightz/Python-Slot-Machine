@@ -25,4 +25,5 @@ Conducted thorough testing to identify and fix bugs.
 
 Challenges and Solutions:
 
-Challenge: Creating random yet realistic reel spins. Solution: Utilized Python's random library to generate random outcomes while ensuring balanced win probabilities.
+Challenge: Creating random yet realistic reel spins.
+Solution: Utilized Python's random library to generate random outcomes while ensuring balanced win probabilities.
