@@ -1,5 +1,4 @@
-# Project Title
-Rolling Strikes
+# Project Title: Rolling Strikes
 
 ## Description:
 A program that simulates a standard slot machine you would find at a casino.
